@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Map Overview</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    
+  </head>
+  <body>
+
+    <!-- Navigation Menu -->
+    <nav class="navbar">
+      <div class="logo">Educational Insights</div>
+      <ul>
+        <li><a href="index.html"><i class="fa fa-home"></i> Home Page</a></li>
+        <li>
+          <a href="overview.html"><i class="fa fa-map"></i> Australia Overview</a>
+        </li>
+        <li>
+          <a href="comparison.html"
+            ><i class="fa fa-venus-mars"></i> Comparison</a>
+        </li>
+        <li>
+          <a href="age-group1.html"
+            ><i class="fa fa-users"></i> Total Age Group Comparison</a>
+        </li>
+      </ul>
+    </nav>
+
+    <h1>Percentage Growth of Both Genders in Education Level throughout Australia</h1>
+    <div id="controls">
+      <div id="year-slider">
+        <input type="range" min="0" max="5" step="1" value="0" />
+        <div id="slider-year">2016</div>
+      </div>
+      <div id="dataset-selector">
+        <label for="dataset">Select Dataset:</label>
+        <select id="dataset">
+          <option value="malefemale34.csv">Age Group 25 to 34</option>
+          <option value="malefemale64.csv">Age Group 25 to 64</option>
+        </select>
+      </div>
+      <div id="gender-selector">
+        <label for="gender">Select Gender:</label>
+        <select id="gender">
+          <option value="Female">Female</option>
+          <option value="Male">Male</option>
+        </select>
+      </div>
+    </div>
+    <div id="map-container">
+      <div id="map"></div>
+      <div id="chart">
+        <svg width="300" height="300"></svg>
+      </div>
+    </div>
+    <div id="tooltip0"></div>
+
+
+    <script src="js/overview.js"></script>
+  </body>
+</html>
