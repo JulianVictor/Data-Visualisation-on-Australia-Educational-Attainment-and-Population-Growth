@@ -1,0 +1,337 @@
+﻿Year,Region,Education level,Percentage
+2019,South Australia,Doctoral Educational Attainment,0.009
+2017,South Australia,Doctoral Educational Attainment,0.007
+2016,Victoria,Doctoral Educational Attainment,0.003
+2021,Victoria,Doctoral Educational Attainment,0.007
+2019,Tasmania,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.439
+2018,Tasmania,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.47
+2017,Tasmania,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.478
+2016,Tasmania,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.473
+2021,Tasmania,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.393
+2016,Queensland,Tertiary Educational Attainment,0.392
+2021,Queensland,Tertiary Educational Attainment,0.432
+2020,Queensland,Tertiary Educational Attainment,0.459
+2019,Queensland,Tertiary Educational Attainment,0.451
+2018,Queensland,Tertiary Educational Attainment,0.395
+2016,Tasmania,Master's Educational Attainment,0.05
+2021,Tasmania,Master's Educational Attainment,0.126
+2019,New South Wales,Short-Cycle Tertiary Educational Attainment,0.107
+2018,New South Wales,Short-Cycle Tertiary Educational Attainment,0.107
+2017,New South Wales,Short-Cycle Tertiary Educational Attainment,0.111
+2016,New South Wales,Short-Cycle Tertiary Educational Attainment,0.113
+2021,New South Wales,Short-Cycle Tertiary Educational Attainment,0.095
+2019,Western Australia,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.112
+2018,Western Australia,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.13
+2017,Western Australia,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.128
+2016,Western Australia,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.127
+2021,Western Australia,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.098
+2021,Victoria,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.078
+2020,Victoria,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.081
+2019,Victoria,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.078
+2018,Victoria,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.074
+2017,Victoria,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.091
+2019,Queensland,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.452
+2018,Queensland,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.489
+2017,Queensland,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.447
+2016,Queensland,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.475
+2021,Queensland,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.438
+2016,South Australia,Doctoral Educational Attainment,0.008
+2018,South Australia,Doctoral Educational Attainment,0
+2021,South Australia,Doctoral Educational Attainment,0.012
+2018,New South Wales,Bachelor's Educational Attainment,0.325
+2017,New South Wales,Bachelor's Educational Attainment,0.348
+2016,New South Wales,Bachelor's Educational Attainment,0.332
+2021,New South Wales,Bachelor's Educational Attainment,0.352
+2019,Tasmania,Short-Cycle Tertiary Educational Attainment,0.057
+2018,Tasmania,Short-Cycle Tertiary Educational Attainment,0.056
+2017,Tasmania,Short-Cycle Tertiary Educational Attainment,0.068
+2016,Tasmania,Short-Cycle Tertiary Educational Attainment,0.089
+2021,Tasmania,Short-Cycle Tertiary Educational Attainment,0.057
+2019,South Australia,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.448
+2018,South Australia,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.386
+2017,South Australia,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.453
+2016,South Australia,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.395
+2021,South Australia,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.413
+2017,Queensland,Master's Educational Attainment,0.056
+2016,Queensland,Master's Educational Attainment,0.043
+2021,Queensland,Master's Educational Attainment,0.07
+2020,Queensland,Master's Educational Attainment,0.067
+2019,Queensland,Master's Educational Attainment,0.06
+2019,New South Wales,Tertiary Educational Attainment,0.568
+2018,New South Wales,Tertiary Educational Attainment,0.564
+2017,New South Wales,Tertiary Educational Attainment,0.557
+2016,New South Wales,Tertiary Educational Attainment,0.544
+2021,New South Wales,Tertiary Educational Attainment,0.576
+2019,Queensland,Bachelor's Educational Attainment,0.281
+2018,Queensland,Bachelor's Educational Attainment,0.258
+2017,Queensland,Bachelor's Educational Attainment,0.285
+2016,Queensland,Bachelor's Educational Attainment,0.217
+2021,Queensland,Bachelor's Educational Attainment,0.253
+2019,Tasmania,Master's Educational Attainment,0.107
+2018,Tasmania,Master's Educational Attainment,0.077
+2017,Tasmania,Master's Educational Attainment,0.053
+2021,Queensland,Doctoral Educational Attainment,0.002
+2016,Western Australia,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.426
+2021,Western Australia,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.397
+2020,Western Australia,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.39
+2019,Western Australia,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.423
+2018,Western Australia,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.416
+2019,Victoria,Tertiary Educational Attainment,0.579
+2018,Victoria,Tertiary Educational Attainment,0.578
+2017,Victoria,Tertiary Educational Attainment,0.584
+2016,Victoria,Tertiary Educational Attainment,0.542
+2021,Victoria,Tertiary Educational Attainment,0.585
+2019,South Australia,Bachelor's Educational Attainment,0.243
+2018,South Australia,Bachelor's Educational Attainment,0.299
+2017,South Australia,Bachelor's Educational Attainment,0.249
+2016,South Australia,Bachelor's Educational Attainment,0.266
+2021,South Australia,Bachelor's Educational Attainment,0.264
+2019,South Australia,Short-Cycle Tertiary Educational Attainment,0.066
+2018,South Australia,Short-Cycle Tertiary Educational Attainment,0.089
+2017,South Australia,Short-Cycle Tertiary Educational Attainment,0.097
+2016,South Australia,Short-Cycle Tertiary Educational Attainment,0.106
+2021,South Australia,Short-Cycle Tertiary Educational Attainment,0.069
+2019,South Australia,Master's Educational Attainment,0.066
+2018,South Australia,Master's Educational Attainment,0.072
+2017,South Australia,Master's Educational Attainment,0.055
+2016,South Australia,Master's Educational Attainment,0.06
+2021,South Australia,Master's Educational Attainment,0.102
+2019,Tasmania,Tertiary Educational Attainment,0.414
+2018,Tasmania,Tertiary Educational Attainment,0.36
+2017,Tasmania,Tertiary Educational Attainment,0.341
+2016,Tasmania,Tertiary Educational Attainment,0.337
+2021,Tasmania,Tertiary Educational Attainment,0.439
+2019,Tasmania,Doctoral Educational Attainment,0.006
+2017,Tasmania,Doctoral Educational Attainment,0.009
+2016,Tasmania,Doctoral Educational Attainment,0
+2018,Tasmania,Doctoral Educational Attainment,0
+2021,Tasmania,Doctoral Educational Attainment,0.01
+2019,Queensland,Short-Cycle Tertiary Educational Attainment,0.108
+2018,Queensland,Short-Cycle Tertiary Educational Attainment,0.093
+2017,Queensland,Short-Cycle Tertiary Educational Attainment,0.099
+2016,Queensland,Short-Cycle Tertiary Educational Attainment,0.123
+2021,Queensland,Short-Cycle Tertiary Educational Attainment,0.108
+2019,New South Wales,Bachelor's Educational Attainment,0.335
+2018,Western Australia,Short-Cycle Tertiary Educational Attainment,0.106
+2017,Western Australia,Short-Cycle Tertiary Educational Attainment,0.095
+2016,Western Australia,Short-Cycle Tertiary Educational Attainment,0.121
+2021,Western Australia,Short-Cycle Tertiary Educational Attainment,0.107
+2016,New South Wales,Doctoral Educational Attainment,0.006
+2021,New South Wales,Doctoral Educational Attainment,0.013
+2020,New South Wales,Doctoral Educational Attainment,0.007
+2019,New South Wales,Doctoral Educational Attainment,0.008
+2018,New South Wales,Doctoral Educational Attainment,0.008
+2019,Victoria,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.345
+2018,Victoria,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.348
+2017,Victoria,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.325
+2016,Victoria,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.353
+2021,Victoria,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.318
+2016,Western Australia,Master's Educational Attainment,0.05
+2021,Western Australia,Master's Educational Attainment,0.077
+2020,Western Australia,Master's Educational Attainment,0.067
+2019,Western Australia,Master's Educational Attainment,0.068
+2018,Western Australia,Master's Educational Attainment,0.057
+2019,Tasmania,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.145
+2018,Tasmania,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.151
+2017,Tasmania,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.181
+2016,Tasmania,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.19
+2021,Tasmania,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.151
+2019,South Australia,Tertiary Educational Attainment,0.385
+2018,South Australia,Tertiary Educational Attainment,0.452
+2017,South Australia,Tertiary Educational Attainment,0.41
+2016,South Australia,Tertiary Educational Attainment,0.437
+2021,South Australia,Tertiary Educational Attainment,0.451
+2019,Queensland,Doctoral Educational Attainment,0.003
+2018,Queensland,Doctoral Educational Attainment,0.004
+2017,Queensland,Doctoral Educational Attainment,0.003
+2016,Queensland,Doctoral Educational Attainment,0.006
+2019,Queensland,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.097
+2018,Queensland,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.113
+2017,Queensland,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.112
+2016,Queensland,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.133
+2021,Queensland,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.102
+2019,New South Wales,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.342
+2018,New South Wales,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.331
+2017,New South Wales,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.347
+2016,New South Wales,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.361
+2021,New South Wales,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.331
+2019,South Australia,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.161
+2018,South Australia,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.165
+2017,South Australia,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.136
+2016,South Australia,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.167
+2021,South Australia,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.126
+2016,Victoria,Short-Cycle Tertiary Educational Attainment,0.114
+2021,Victoria,Short-Cycle Tertiary Educational Attainment,0.098
+2020,Victoria,Short-Cycle Tertiary Educational Attainment,0.113
+2019,Victoria,Short-Cycle Tertiary Educational Attainment,0.114
+2018,Victoria,Short-Cycle Tertiary Educational Attainment,0.128
+2019,Western Australia,Tertiary Educational Attainment,0.46
+2018,Western Australia,Tertiary Educational Attainment,0.459
+2017,Western Australia,Tertiary Educational Attainment,0.461
+2016,Western Australia,Tertiary Educational Attainment,0.447
+2021,Western Australia,Tertiary Educational Attainment,0.484
+2019,Victoria,Master's Educational Attainment,0.115
+2018,Victoria,Master's Educational Attainment,0.1
+2017,Victoria,Master's Educational Attainment,0.108
+2016,Victoria,Master's Educational Attainment,0.084
+2021,Victoria,Master's Educational Attainment,0.13
+2019,Western Australia,Bachelor's Educational Attainment,0.287
+2018,Western Australia,Bachelor's Educational Attainment,0.292
+2017,Western Australia,Bachelor's Educational Attainment,0.3
+2016,Western Australia,Bachelor's Educational Attainment,0.273
+2021,Western Australia,Bachelor's Educational Attainment,0.295
+2019,Tasmania,Bachelor's Educational Attainment,0.228
+2018,Tasmania,Bachelor's Educational Attainment,0.238
+2017,Tasmania,Bachelor's Educational Attainment,0.198
+2016,Tasmania,Bachelor's Educational Attainment,0.2
+2021,Tasmania,Bachelor's Educational Attainment,0.257
+2019,Western Australia,Short-Cycle Tertiary Educational Attainment,0.102
+2020,Queensland,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.094
+2020,New South Wales,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.341
+2020,South Australia,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.128
+2017,Victoria,Short-Cycle Tertiary Educational Attainment,0.142
+2020,Western Australia,Tertiary Educational Attainment,0.495
+2020,Victoria,Master's Educational Attainment,0.144
+2020,Western Australia,Bachelor's Educational Attainment,0.325
+2020,New South Wales,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.082
+2020,Western Australia,Doctoral Educational Attainment,0.009
+2020,Western Australia,Short-Cycle Tertiary Educational Attainment,0.087
+2017,New South Wales,Doctoral Educational Attainment,0.008
+2020,Victoria,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.308
+2017,Western Australia,Master's Educational Attainment,0.058
+2020,Tasmania,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.176
+2020,South Australia,Tertiary Educational Attainment,0.442
+2020,Victoria,Bachelor's Educational Attainment,0.339
+2020,New South Wales,Master's Educational Attainment,0.115
+2020,Queensland,Doctoral Educational Attainment,0.012
+2017,Western Australia,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.411
+2020,Victoria,Tertiary Educational Attainment,0.614
+2020,South Australia,Bachelor's Educational Attainment,0.272
+2020,South Australia,Short-Cycle Tertiary Educational Attainment,0.086
+2020,South Australia,Master's Educational Attainment,0.087
+2020,Tasmania,Tertiary Educational Attainment,0.431
+2020,Tasmania,Doctoral Educational Attainment,0.028
+2020,Queensland,Short-Cycle Tertiary Educational Attainment,0.089
+2020,Tasmania,Bachelor's Educational Attainment,0.237
+2020,New South Wales,Bachelor's Educational Attainment,0.339
+2020,Tasmania,Short-Cycle Tertiary Educational Attainment,0.069
+2020,South Australia,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.426
+2018,Queensland,Master's Educational Attainment,0.042
+2020,New South Wales,Tertiary Educational Attainment,0.577
+2020,Queensland,Bachelor's Educational Attainment,0.292
+2019,Victoria,Bachelor's Educational Attainment,0.344
+2018,Victoria,Bachelor's Educational Attainment,0.339
+2017,Victoria,Bachelor's Educational Attainment,0.321
+2016,Victoria,Bachelor's Educational Attainment,0.34
+2021,Victoria,Bachelor's Educational Attainment,0.352
+2019,New South Wales,Master's Educational Attainment,0.119
+2018,New South Wales,Master's Educational Attainment,0.121
+2017,New South Wales,Master's Educational Attainment,0.087
+2016,New South Wales,Master's Educational Attainment,0.093
+2021,New South Wales,Master's Educational Attainment,0.113
+2020,Victoria,Doctoral Educational Attainment,0.018
+2019,Victoria,Doctoral Educational Attainment,0.008
+2018,Victoria,Doctoral Educational Attainment,0.007
+2020,Tasmania,Master's Educational Attainment,0.094
+2020,New South Wales,Short-Cycle Tertiary Educational Attainment,0.117
+2020,Western Australia,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.121
+2016,Victoria,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.105
+2020,Queensland,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.446
+2020,Tasmania,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.398
+2017,Queensland,Tertiary Educational Attainment,0.441
+2020,South Australia,Doctoral Educational Attainment,0.006
+2019,New South Wales,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.091
+2018,New South Wales,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.103
+2017,New South Wales,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.097
+2016,New South Wales,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.096
+2021,New South Wales,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.078
+2019,Western Australia,Doctoral Educational Attainment,0.003
+2018,Western Australia,Doctoral Educational Attainment,0.004
+2017,Western Australia,Doctoral Educational Attainment,0.011
+2016,Western Australia,Doctoral Educational Attainment,0.009
+2021,Western Australia,Doctoral Educational Attainment,0.004
+2017,Victoria,Doctoral Educational Attainment,0.011
+2016,Northern Territory,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.133
+2017,Northern Territory,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.472
+2018,Northern Territory,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.152
+2019,Northern Territory,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.173
+2019,Northern Territory,Doctoral Educational Attainment,0.014
+2021,Northern Territory,Bachelor's Educational Attainment,0.263
+2019,Northern Territory,Master's Educational Attainment,0.113
+2020,Northern Territory,Master's Educational Attainment,0.113
+2021,Northern Territory,Master's Educational Attainment,0.105
+2016,Northern Territory,Master's Educational Attainment,0.042
+2017,Northern Territory,Bachelor's Educational Attainment,0.222
+2018,Northern Territory,Bachelor's Educational Attainment,0.249
+2019,Northern Territory,Bachelor's Educational Attainment,0.297
+2020,Northern Territory,Bachelor's Educational Attainment,0.244
+2018,Northern Territory,Doctoral Educational Attainment,0
+2017,Northern Territory,Master's Educational Attainment,0.046
+2017,Northern Territory,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.156
+2018,Northern Territory,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.441
+2019,Northern Territory,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.349
+2020,Northern Territory,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.405
+2021,Northern Territory,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.377
+2016,Northern Territory,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.459
+2017,Northern Territory,Tertiary Educational Attainment,0.371
+2018,Northern Territory,Tertiary Educational Attainment,0.423
+2019,Northern Territory,Tertiary Educational Attainment,0.486
+2020,Northern Territory,Tertiary Educational Attainment,0.456
+2021,Northern Territory,Tertiary Educational Attainment,0.474
+2016,Northern Territory,Tertiary Educational Attainment,0.408
+2017,Northern Territory,Short-Cycle Tertiary Educational Attainment,0.085
+2018,Northern Territory,Short-Cycle Tertiary Educational Attainment,0.102
+2019,Northern Territory,Short-Cycle Tertiary Educational Attainment,0.08
+2020,Northern Territory,Short-Cycle Tertiary Educational Attainment,0.078
+2021,Northern Territory,Short-Cycle Tertiary Educational Attainment,0.105
+2016,Northern Territory,Short-Cycle Tertiary Educational Attainment,0.112
+2020,Northern Territory,Doctoral Educational Attainment,0.008
+2017,Northern Territory,Doctoral Educational Attainment,0
+2021,Northern Territory,Doctoral Educational Attainment,0.011
+2016,Northern Territory,Doctoral Educational Attainment,0.006
+2020,Northern Territory,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.118
+2021,Northern Territory,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.144
+2018,Northern Territory,Master's Educational Attainment,0.055
+2016,Northern Territory,Bachelor's Educational Attainment,0.244
+2019,Australian Capital Territory,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.323
+2020,Australian Capital Territory,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.299
+2017,Australian Capital Territory,Short-Cycle Tertiary Educational Attainment,0.134
+2018,Australian Capital Territory,Short-Cycle Tertiary Educational Attainment,0.083
+2019,Australian Capital Territory,Short-Cycle Tertiary Educational Attainment,0.102
+2020,Australian Capital Territory,Short-Cycle Tertiary Educational Attainment,0.072
+2017,Australian Capital Territory,Bachelor's Educational Attainment,0.355
+2018,Australian Capital Territory,Bachelor's Educational Attainment,0.441
+2019,Australian Capital Territory,Bachelor's Educational Attainment,0.403
+2020,Australian Capital Territory,Bachelor's Educational Attainment,0.36
+2021,Australian Capital Territory,Bachelor's Educational Attainment,0.413
+2016,Australian Capital Territory,Bachelor's Educational Attainment,0.402
+2017,Australian Capital Territory,Master's Educational Attainment,0.129
+2018,Australian Capital Territory,Master's Educational Attainment,0.148
+2019,Australian Capital Territory,Master's Educational Attainment,0.103
+2020,Australian Capital Territory,Master's Educational Attainment,0.18
+2021,Australian Capital Territory,Master's Educational Attainment,0.115
+2016,Australian Capital Territory,Master's Educational Attainment,0.118
+2017,Australian Capital Territory,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.347
+2018,Australian Capital Territory,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.273
+2021,Australian Capital Territory,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.269
+2016,Australian Capital Territory,Upper Secondary and Post-Secondary Non-Tertiary Educational Attainment,0.311
+2016,Australian Capital Territory,Doctoral Educational Attainment,0
+2018,Australian Capital Territory,Doctoral Educational Attainment,0.016
+2019,Australian Capital Territory,Doctoral Educational Attainment,0.019
+2020,Australian Capital Territory,Doctoral Educational Attainment,0.039
+2021,Australian Capital Territory,Doctoral Educational Attainment,0.022
+2017,Australian Capital Territory,Doctoral Educational Attainment,0
+2017,Australian Capital Territory,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.057
+2018,Australian Capital Territory,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.046
+2019,Australian Capital Territory,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.045
+2020,Australian Capital Territory,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.086
+2021,Australian Capital Territory,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.066
+2016,Australian Capital Territory,"Pre-primary, Primary and Lower Secondary Educational Attainment",0.059
+2017,Australian Capital Territory,Tertiary Educational Attainment,0.596
+2018,Australian Capital Territory,Tertiary Educational Attainment,0.692
+2019,Australian Capital Territory,Tertiary Educational Attainment,0.632
+2020,Australian Capital Territory,Tertiary Educational Attainment,0.641
+2021,Australian Capital Territory,Tertiary Educational Attainment,0.646
+2016,Australian Capital Territory,Tertiary Educational Attainment,0.63
+2021,Australian Capital Territory,Short-Cycle Tertiary Educational Attainment,0.066
+2016,Australian Capital Territory,Short-Cycle Tertiary Educational Attainment,0.114
